@@ -1,6 +1,6 @@
 # Project_1: Basic Agents 
-15% of your grade
-Due Friday March 6th by 4pm
+**15% of your grade**
+**Due Friday March 6th by 4pm**
 
 
 Create an application utilizing agents with sensors (steering capabilities) and forces. Make some of these agents and forces response to the mouse and keyboard. Utilize the proper use of classes for each agent and various systems, along with arrays and array lists.
