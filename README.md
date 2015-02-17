@@ -13,6 +13,6 @@ Ingredients:
 - Agents
 - Interaction
 
-	This could take the form of a simple game, an animation, a safari or koi pond. When agents are given some intelligence (limited ability to sense the environment, choose an action and move), we tend to associate or interpret that movement at times as personality traits, behaviors or moods. Consider this as you build your project.
+This could take the form of a simple game, an animation, a safari or koi pond. When agents are given some intelligence (limited ability to sense the environment, choose an action and move), we tend to associate or interpret that movement at times as personality traits, behaviors or moods. Consider this as you build your project.
 
-	Projects must be at least 80 lines code (excluding comments and white space).
+Projects must be at least 80 lines code (excluding comments and white space).
