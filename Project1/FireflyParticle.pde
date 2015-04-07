@@ -1,4 +1,4 @@
-// Trying to comment as we discussed
+ // Trying to comment as we discussed
 
 
 //Establishing class Particle
@@ -107,9 +107,10 @@ class FireflyParticle
     float x = mouseX;
     float y = mouseY;
     PVector target = new PVector(x,y);   
-    PVector desired = PVector.add(target, location); 
+    PVector desired = PVector.sub(target, location); //in order to flee, you have to "flip-flop" the parameters
+      
     desired.setMag(maxSpeed);
-    PVector turn = PVector.add(desired,velocity);
+    PVector turn = PVector.sub(desired,velocity);
     turn.limit(maxForce);
     applyForce(turn);
   }
